@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[App Inventor揭密]]></title>
+  <subtitle><![CDATA[App Inventor背后的故事]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://appinventor.xyz/"/>
+  <updated>2015-12-24T04:33:51.526Z</updated>
+  <id>http://appinventor.xyz/</id>
+  
+  <author>
+    <name><![CDATA[Wanddy Huang]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello App Inventor World!]]></title>
+    <link href="http://appinventor.xyz/post/hello-world/"/>
+    <id>http://appinventor.xyz/post/hello-world/</id>
+    <published>2015-12-23T08:32:38.000Z</published>
+    <updated>2015-12-24T04:33:51.526Z</updated>
+    <content type="html"><![CDATA[<h2 id="What_is_MIT_App_Inventor_3F"><a href="#What_is_MIT_App_Inventor_3F" class="headerlink" title="What is MIT App Inventor?"></a>What is MIT App Inventor?</h2><p>MIT App Inventor is an innovative beginner’s introduction to programming and app creation that transforms the complex language of text-based coding into visual, drag-and-drop building blocks. The simple graphical interface grants even an inexperienced novice the ability to create a basic, fully functional app within an hour or less.</p>
+<h2 id="Mission"><a href="#Mission" class="headerlink" title="Mission"></a>Mission</h2><p>The MIT App Inventor project seeks to democratize software development by empowering all people, especially young people, to transition from being consumers of technology to becoming creators of it.</p>
+<h2 id="History"><a href="#History" class="headerlink" title="History"></a>History</h2><p>Google’s Mark Friedman and MIT Professor Hal Abelson co-led the development of App Inventor while Hal was on sabbatical at Google in 2009. Other early Google engineer contributors were Sharon Perl, Liz Looney, and Ellen Spertus. App Inventor runs as a web service administered by staff at MIT’s Center for Mobile Learning - a collaboration of MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the MIT Media Lab.</p>
+<p>本文摘自<a href="http://appinventor.mit.edu/explore/about-us.html" title="MIT App Inventor官方网站" target="_blank" rel="external">http://appinventor.mit.edu/explore/about-us.html</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="What_is_MIT_App_Inventor_3F"><a href="#What_is_MIT_App_Inventor_3F" class="headerlink" title="What is MIT App Inventor?"></a>What is]]>
+    </summary>
+    
+      <category term="App Inventor" scheme="http://appinventor.xyz/tags/App-Inventor/"/>
+    
+      <category term="综合" scheme="http://appinventor.xyz/categories/%E7%BB%BC%E5%90%88/"/>
+    
+  </entry>
+  
+</feed>
